@@ -1,0 +1,1 @@
+Notre  problème consiste à créer un système d'enchères en Java, où les utilisateurs peuvent enchérir sur un produit. Le système doit comporter un serveur qui gère les enchères et un ou plusieurs clients qui peuvent se connecter au serveur pour enchérir sur un produit.
